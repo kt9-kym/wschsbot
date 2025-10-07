@@ -1,0 +1,2 @@
+# wschsbot
+high school bot
